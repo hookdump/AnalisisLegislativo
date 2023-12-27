@@ -1,0 +1,14 @@
+{
+  "name": "AnalisisLegislativo",
+  "version": "0.0.1",
+  "description": "Herramienta de linea de comando (node) para parsear proyectos legislativos y sintetizar sus puntos principales.",
+  "main": "index.js",
+  "repository": "git@github.com:hookdump/AnalisisLegislativo.git",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "command-line-args": "^5.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
