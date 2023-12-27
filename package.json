@@ -6,7 +6,8 @@
   "repository": "git@github.com:hookdump/AnalisisLegislativo.git",
   "license": "GPL-3.0",
   "dependencies": {
-    "command-line-args": "^5.2.1"
+    "command-line-args": "^5.2.1",
+    "csv-parser": "^3.0.0"
   },
   "scripts": {
     "start": "node index.js"
